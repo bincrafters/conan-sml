@@ -1,4 +1,4 @@
 sources:
-  "1.0.0":
-    url: "https://github.com/libauthor/libname"
-    sha256: "98f6f57aab0a424469619ed3047728f0d3901ce8f0dea919c11e7966d807e870"
+  "1.1.0":
+    url: "https://github.com/boost-experimental/sml"
+    sha256: "5b51a0b0318fb155c65621f77179ae80f61d136789ea749dde18c4a1fca51a74"
