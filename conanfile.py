@@ -8,7 +8,7 @@ class SmlConan(ConanFile):
     topics = ("conan", "sml", "state-machine")
     url = "https://github.com/bincrafters/conan-sml"
     homepage = "https://github.com/boost-experimental/sml"
-    license = "MIT"  # Indicates license type of the packaged library; please use SPDX Identifiers https://spdx.org/licenses/
+    license = "BSL-1.0"  # Indicates license type of the packaged library; please use SPDX Identifiers https://spdx.org/licenses/
     no_copy_source = True
 
     _source_subfolder = "source_subfolder"
